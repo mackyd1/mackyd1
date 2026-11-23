@@ -1,35 +1,101 @@
+<div align="center">
+
 # Macdonald Nnadi
 
-Computer Engineering at the [University of Waterloo](https://uwaterloo.ca/) (grad April 2027). I build backend APIs, platform tooling, and retrieval systems — most recently internships at **TD Bank**, **VITALL**, **Dozr**, and **Environment and Climate Change Canada**.
+**Software Engineer** · Backend × Platform × Applied AI
 
-**Toronto, ON** · Available May 2027 · [Portfolio](https://macdonaldnnadi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/macdonald-nnadi/) · [Email](mailto:mac4nnadi@gmail.com)
+*Building reliable systems — APIs, infra, and retrieval that actually cite the source.*
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-macdonaldnnadi.vercel.app-0A7EA4?style=for-the-badge&logo=vercel&logoColor=white)](https://macdonaldnnadi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-macdonald--nnadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macdonald-nnadi/)
+[![Email](https://img.shields.io/badge/Email-mac4nnadi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mac4nnadi@gmail.com)
 
-## Featured work
+Computer Engineering @ **University of Waterloo** · Grad April 2027 · Available **May 2027** · Toronto, ON
 
-| Project | What it is |
-| --- | --- |
-| [**Forge**](https://github.com/mackyd1/forge) | RAG workspace for codebase Q&A — Tree-sitter chunking, hybrid BM25 + Gemini vector retrieval, offline eval (recall@4 **90.9% → 100%**) |
-| [**Locked-In**](https://github.com/mackyd1/locked-in) | FastAPI stats API with Redis sliding-window rate limits, RQ workers, and pluggable providers |
-| [**BookSmart Chess**](https://github.com/mackyd1/BookSmart-Chess) | Analyze Chess.com / Lichess games and drill openings with spaced repetition |
-| [**Connect Meet**](https://github.com/mackyd1/connect-meet-) | Location-based meetup app — React, TypeScript, Supabase |
-
-More on the [portfolio site](https://macdonaldnnadi.vercel.app).
+</div>
 
 ---
 
-## Stack I use most
+### Featured projects
 
-**Languages:** Python · TypeScript · Java · SQL · C/C++  
-**Backend:** FastAPI · NestJS · Node.js · Redis · PostgreSQL · GraphQL · REST  
-**Cloud / platform:** AWS · Docker · Terraform · Kubernetes · CI/CD  
-**AI / retrieval:** RAG · Gemini · OpenAI · BM25 · ChromaDB · LangChain · MCP
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Forge
+**RAG codebase workspace**
+
+Ask questions about a repo and get answers with file/line citations. Tree-sitter chunking, hybrid BM25 + Gemini vector retrieval, offline eval (**recall@4 90.9% → 100%**).
+
+[Repo](https://github.com/mackyd1/forge) · TypeScript · Docker
+
+</td>
+<td width="50%" valign="top">
+
+#### Locked-In
+**Rate-limited stats API**
+
+FastAPI + Redis sliding-window limits + RQ workers. Authenticated `/v1/me/summary` with pluggable providers (LeetCode live).
+
+[Repo](https://github.com/mackyd1/locked-in) · Python · Docker Compose
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### BookSmart Chess
+**Game analysis & drilling**
+
+Analyze Chess.com / Lichess games and practice openings with spaced repetition.
+
+[Repo](https://github.com/mackyd1/BookSmart-Chess) · TypeScript
+
+</td>
+<td width="50%" valign="top">
+
+#### Connect Meet
+**Social meetup platform**
+
+Location-based meetups with relational schemas, auth, and client caching.
+
+[Repo](https://github.com/mackyd1/connect-meet-) · React · Supabase
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently
+### Stack
 
-- Shipping interview-ready systems projects (Forge retrieval eval, Locked-In API platform)
-- Looking for **new-grad / strong SWE internship** roles — US & Canada
-- Reading *The Stormlight Archive* · basketball · [chess.com/macdonaldnnadi](https://www.chess.com/member/macdonaldnnadi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-hybrid%20BM25%2Bvector-111111?style=flat-square)
+
+---
+
+### Experience snapshot
+
+Internships at **TD Bank**, **VITALL**, **Dozr**, and **Environment and Climate Change Canada** — provisioning pipelines, GraphQL APIs, Terraform/AWS, Kubernetes, and production LLM assistants.
+
+Looking for **new-grad / strong SWE internship** roles · US & Canada
+
+---
+
+<div align="center">
+
+### Outside the terminal
+
+Basketball · [Chess](https://www.chess.com/member/macdonaldnnadi) · Reading (*The Stormlight Archive*)
+
+</div>
